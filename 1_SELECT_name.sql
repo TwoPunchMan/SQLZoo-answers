@@ -1,4 +1,5 @@
 -- 1 SELECT name
+-- Some pattern matching queries
 
 /* 
    This tutorial uses the LIKE operator to check names. 
