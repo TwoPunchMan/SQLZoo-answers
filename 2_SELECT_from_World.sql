@@ -1,5 +1,5 @@
 -- 2 SELECT from World
--- Some pattern matching queries
+-- In which we query the World country profile table.
 
 /*
 1. Observe the result of running this SQL command to 
